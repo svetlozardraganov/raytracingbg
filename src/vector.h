@@ -25,7 +25,7 @@
 
 struct Vector {
 	double x, y, z;
-	
+
 	Vector () {}
 	Vector(double _x, double _y, double _z) { set(_x, _y, _z); }
 	void set(double _x, double _y, double _z)

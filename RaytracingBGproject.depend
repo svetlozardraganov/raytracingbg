@@ -404,7 +404,7 @@
 1635517483 g:\my drive\programming\raytracingbg\raytracingbgproject\src\matrix.h
 	"vector.h"
 
-1635517623 g:\my drive\programming\raytracingbg\raytracingbgproject\src\vector.h
+1635613758 g:\my drive\programming\raytracingbg\raytracingbgproject\src\vector.h
 	<math.h>
 
 1635517623 g:\my drive\programming\raytracingbg\raytracingbgproject\src\camera.h
@@ -424,7 +424,7 @@
 	"sdl.h"
 	<iostream>
 
-1635596400 source:g:\my drive\programming\raytracingbg\raytracingbgproject\src\camera.cpp
+1635614731 source:g:\my drive\programming\raytracingbg\raytracingbgproject\src\camera.cpp
 	"camera.h"
 	"matrix.h"
 	"util.h"
